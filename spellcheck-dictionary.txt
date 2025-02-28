@@ -133,6 +133,8 @@ VMs
 vtable
 Vue
 Wasm
+
+abvc
 WebAssembly
 Wasmer
 Wasmer's
